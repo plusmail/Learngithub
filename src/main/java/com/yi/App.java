@@ -11,5 +11,6 @@ public class App
         System.out.println( "Hello World!" );
         System.out.println( "M1" );
         System.out.println( "M2" );
+        System.out.println( "M3" );
     }
 }
